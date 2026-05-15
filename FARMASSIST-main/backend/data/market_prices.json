@@ -1,0 +1,74 @@
+[
+  {
+    "crop": "Wheat",
+    "price": 2200
+  },
+  {
+    "crop": "Maize",
+    "price": 1850
+  },
+  {
+    "crop": "Paddy",
+    "price": 2040
+  },
+  {
+    "crop": "Paddy (Rice)",
+    "price": 2040
+  },
+  {
+    "crop": "Potato",
+    "price": 1500
+  },
+  {
+    "crop": "Vegetables (Tomato/Potato)",
+    "price": 1600
+  },
+  {
+    "crop": "Arhar (Pigeon Pea)",
+    "price": 6000
+  },
+  {
+    "crop": "Gram (Chickpea)",
+    "price": 5500
+  },
+  {
+    "crop": "Mustard",
+    "price": 4800
+  },
+  {
+    "crop": "Urad/Moong",
+    "price": 6500
+  },
+  {
+    "crop": "Moong (Green Gram)",
+    "price": 7000
+  },
+  {
+    "crop": "Urad (Black Gram)",
+    "price": 6200
+  },
+  {
+    "crop": "Watermelon/Muskmelon",
+    "price": 2500
+  },
+  {
+    "crop": "Millet (Bajra)",
+    "price": 2100
+  },
+  {
+    "crop": "Bajra (Millet)",
+    "price": 2150
+  },
+  {
+    "crop": "Jowar (Sorghum)",
+    "price": 2800
+  },
+  {
+    "crop": "Barley",
+    "price": 1900
+  },
+  {
+    "crop": "Peas",
+    "price": 3500
+  }
+]
