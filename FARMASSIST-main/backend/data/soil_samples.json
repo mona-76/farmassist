@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "lat": 23.5,
+    "lon": 85.3,
+    "ph": 6.3,
+    "organic_carbon": 0.8,
+    "nitrogen": 0.12
+  },
+  {
+    "id": 2,
+    "lat": 23.6,
+    "lon": 85.4,
+    "ph": 7.1,
+    "organic_carbon": 0.6,
+    "nitrogen": 0.09
+  }
+]
