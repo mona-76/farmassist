@@ -1,0 +1,10 @@
+# Root .gitignore for FarmAssist
+node_modules/
+.env
+dist/
+build/
+uploads/
+.DS_Store
+*.log
+.agent/
+.gemini/
